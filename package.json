@@ -1,0 +1,16 @@
+{
+  "name": "wanderer-ps",
+  "private": true,
+  "scripts": {
+    "build": "pulp browserify -O > app.js",
+    "install": "bower install"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.2",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.9"
+  }
+}

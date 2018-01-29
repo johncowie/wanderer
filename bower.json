@@ -1,0 +1,18 @@
+{
+  "name": "wanderer-ps",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^3.0.0",
+    "purescript-strings": "^3.4.0",
+    "purescript-lists": "^4.12.0",
+    "purescript-thermite": "^5.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
